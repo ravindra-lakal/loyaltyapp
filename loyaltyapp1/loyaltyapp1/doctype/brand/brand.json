@@ -1,6 +1,6 @@
 {
  "allow_copy": 0, 
- "allow_import": 0, 
+ "allow_import": 1, 
  "allow_rename": 0, 
  "autoname": "field:name1", 
  "creation": "2016-01-13 16:01:14.048178", 
@@ -67,7 +67,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2016-01-13 16:20:49.827385", 
+ "modified": "2016-01-15 15:55:08.173097", 
  "modified_by": "Administrator", 
  "module": "Loyaltyapp1", 
  "name": "Brand", 
